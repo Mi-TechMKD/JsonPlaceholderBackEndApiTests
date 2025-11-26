@@ -65,7 +65,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/JsonPlaceholderBackEndApiTests.git
+git clone [https://github.com/yourusername/JsonPlaceholderBackEndApiTests.git](https://github.com/Mi-TechMKD/JsonPlaceholderBackEndApiTests.git)
 
 
 Navigate to the project folder:
